@@ -4,7 +4,7 @@
 Этот проект позволяет изменять насыщенность изображений с помощью библиотеки **OpenCV**.  
 Программа проходит по указанной директории, обрабатывает все изображения и выводит результат в сравнении: слева — оригинал, справа — версия с изменённой насыщенностью.
 
-<img width="981" height="462" alt="image" src="https://github.com/user-attachments/assets/ee655926-854e-414f-9af6-99dd354dc978" />
+<img width="987" height="499" alt="image" src="https://github.com/user-attachments/assets/2dd8524f-0a3a-4ee2-b341-e448fbdf6fb7" />
 <img width="981" height="462" alt="image" src="https://github.com/user-attachments/assets/9afc8659-e432-40d3-8305-12f5dbff10e7" />
 
 ## Возможности
