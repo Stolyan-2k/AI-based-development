@@ -18,8 +18,8 @@
 - Возможность обработки одной картинки или всей директории
 
 ## Пример обработаной картинки
-<img width="470" height="469" alt="image" src="https://github.com/user-attachments/assets/a19d993b-34ed-4c10-ab56-381f1115518d" />
-<img width="477" height="476" alt="image" src="https://github.com/user-attachments/assets/4a6b5568-c456-445b-a1bd-38b55f8c6ccb" />
+<img width="949" height="465" alt="image" src="https://github.com/user-attachments/assets/4a3e5dc8-743d-4519-99de-3ab5b3769c6e" />
+
 
 ## Примечание
 - Работает с картинками на белом фоне
