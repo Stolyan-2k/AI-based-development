@@ -9,10 +9,17 @@
 - Обработка всех изображений в указанной папке
 - Поддержка форматов: .jpg, .jpeg, .png, .bmp, .tiff
 - Регулируемые параметры (в начале файла):
-  - SHADOW_STRENGTH — интенсивность тени (0–1 или в %)
+  - SHADOW_STRENGTH — интенсивность тени (0–255)
   - SCALE_Y — степень вертикального сжатия тени
   - DX, DY_EXTRA — сдвиг тени вправо и вниз
   - MASK_BLUR_KERNEL, SHADOW_BLUR_KERNEL, FINAL_BLUR_KERNEL — параметры размытия
 
 - Безопасная обработка значений: переполнение невозможно
 - Возможность обработки одной картинки или всей директории
+
+## Пример обработаной картинки
+<img width="470" height="469" alt="image" src="https://github.com/user-attachments/assets/a19d993b-34ed-4c10-ab56-381f1115518d" />
+<img width="477" height="476" alt="image" src="https://github.com/user-attachments/assets/4a6b5568-c456-445b-a1bd-38b55f8c6ccb" />
+
+## Примечание
+- Работает с картинками на белом фоне
